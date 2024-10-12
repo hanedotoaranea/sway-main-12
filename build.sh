@@ -1,4 +1,4 @@
-lb config -d bullseye \
+lb config -d bookworm \
           --debian-installer live \
           --debian-installer-distribution bookworm \
           --debian-installer-gui true \
